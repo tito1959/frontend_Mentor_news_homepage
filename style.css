@@ -187,7 +187,8 @@ main {
 }
 
 .attribution {
-  position: absolute;
+  margin-top: 3rem;
+  position: relative;
   bottom: 0;
   width: 100%;
   padding: 5vh;
